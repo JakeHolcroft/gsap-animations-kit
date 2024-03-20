@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "\"https://github.com/JakeHolcroft/gsap-animations-kit.git\""
-  },
+    "url": "https://github.com/JakeHolcroft/gsap-animations-kit.git"
+  },  
   "keywords": [
     "gsap",
     "animations"

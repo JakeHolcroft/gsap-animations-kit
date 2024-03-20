@@ -1,1 +1,1 @@
-export { default as SlideUpFromBehind } from "./Animations/SlideUpFromBehind";
+export { default as SlideUpFromBehind } from "./Animations/SlideUpFromBehind.jsx";
