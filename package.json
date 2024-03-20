@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "\"https://github.com/your-username/your-package.git\""
+    "url": "\"https://github.com/JakeHolcroft/gsap-animations-kit.git\""
   },
   "keywords": [
     "gsap",
     "animations"
   ],
   "author": "Jake Holcroft",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "react": "^18.2.0"
+  }
 }
