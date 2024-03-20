@@ -1,6 +1,6 @@
 {
   "name": "gsap-animations-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A set of prebuilt gsap animations to save time.",
   "main": "index.js",
   "scripts": {
