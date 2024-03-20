@@ -9,5 +9,5 @@ A set of prebuilt gsap animations to save time.
 You can install this package via npm. Make sure you have Node.js and npm installed.
 
 ```bash
-npm install your-package-name
+npm install gsap-animations-kit
 ```
